@@ -1,0 +1,1479 @@
+Patched top-level schema: Policy_id with x-go-name: Policy_id
+Patched top-level schema: DaemonStatus with x-go-name: DaemonStatus
+Patched top-level schema: LocalPortInfo with x-go-name: LocalPortInfo
+Patched top-level schema: SecurityConfiguration with x-go-name: SecurityConfiguration
+Patched top-level schema: WazuhAnalysisdStats with x-go-name: WazuhAnalysisdStats
+Patched top-level schema: DHCPStatus with x-go-name: DHCPStatus
+Patched top-level schema: AgentConfiguration with x-go-name: AgentConfiguration
+Patched top-level schema: AllItemsResponseSyscollectorNetwork with x-go-name: AllItemsResponseSyscollectorNetwork
+Patched top-level schema: Mitre_software_id with x-go-name: Mitre_software_id
+Patched top-level schema: AgentGroupDeleted with x-go-name: AgentGroupDeleted
+Patched top-level schema: SyscollectorHotfix with x-go-name: SyscollectorHotfix
+Patched top-level schema: AllItemsResponseNodeHealthcheck with x-go-name: AllItemsResponseNodeHealthcheck
+Patched top-level schema: LastScan with x-go-name: LastScan
+Patched top-level schema: RemotePortInfo with x-go-name: RemotePortInfo
+Patched top-level schema: Agent with x-go-name: Agent
+Patched top-level schema: GroupID with x-go-name: GroupID
+Patched top-level schema: AllItemsResponseLastScan with x-go-name: AllItemsResponseLastScan
+Patched top-level schema: Role_id_DELETE with x-go-name: Role_id_DELETE
+Patched top-level schema: ScanIdTime with x-go-name: ScanIdTime
+Patched top-level schema: RequestError with x-go-name: RequestError
+Patched top-level schema: AgentDistinct with x-go-name: AgentDistinct
+Patched top-level schema: AllItemsResponseSyscollectorInterface with x-go-name: AllItemsResponseSyscollectorInterface
+Patched top-level schema: WazuhInfo with x-go-name: WazuhInfo
+Patched top-level schema: AgentAddBody with x-go-name: AgentAddBody
+Patched top-level schema: AllItemsResponseGroupIDs with x-go-name: AllItemsResponseGroupIDs
+Patched top-level schema: WazuhRemotedStatsAgentsItem with x-go-name: WazuhRemotedStatsAgentsItem
+Patched top-level schema: AllItemsResponseSyscollectorPorts with x-go-name: AllItemsResponseSyscollectorPorts
+Patched top-level schema: Token with x-go-name: Token
+Patched top-level schema: AllItemsResponseSyscollectorProcesses with x-go-name: AllItemsResponseSyscollectorProcesses
+Patched top-level schema: SyscheckDatabase with x-go-name: SyscheckDatabase
+Patched top-level schema: RolesRequest with x-go-name: RolesRequest
+Patched top-level schema: GroupIDListAll with x-go-name: GroupIDListAll
+Patched top-level schema: WazuhManagerConfiguration with x-go-name: WazuhManagerConfiguration
+Patched top-level schema: ActiveResponseBody with x-go-name: ActiveResponseBody
+Patched top-level schema: AllItemsResponseWazuhDaemonStatsAgents with x-go-name: AllItemsResponseWazuhDaemonStatsAgents
+Patched top-level schema: SecurityRulesRequest_no_required with x-go-name: SecurityRulesRequest_no_required
+Patched top-level schema: AllItemsResponseGroupFiles with x-go-name: AllItemsResponseGroupFiles
+Patched top-level schema: WazuhRemotedStatsItem with x-go-name: WazuhRemotedStatsItem
+Patched top-level schema: AgentIDListAll with x-go-name: AgentIDListAll
+Patched top-level schema: WazuhStats with x-go-name: WazuhStats
+Patched top-level schema: WazuhWeeklyStats with x-go-name: WazuhWeeklyStats
+Patched top-level schema: NodeRulesetSyncStatus with x-go-name: NodeRulesetSyncStatus
+Patched top-level schema: AllItemsResponseAgentIDs with x-go-name: AllItemsResponseAgentIDs
+Patched top-level schema: GroupConfiguration with x-go-name: GroupConfiguration
+Patched top-level schema: Policy_id_DELETE with x-go-name: Policy_id_DELETE
+Patched top-level schema: AllItemsResponseDecodersFiles with x-go-name: AllItemsResponseDecodersFiles
+Patched top-level schema: ApiError with x-go-name: ApiError
+Patched top-level schema: CiscatResults with x-go-name: CiscatResults
+Patched top-level schema: Mitre_reference_id with x-go-name: Mitre_reference_id
+Patched top-level schema: ClusterStatus with x-go-name: ClusterStatus
+Patched top-level schema: AgentGroup with x-go-name: AgentGroup
+Patched top-level schema: AllItemsResponseDecoders with x-go-name: AllItemsResponseDecoders
+Patched top-level schema: NetworkInterfaceReceivedPackets with x-go-name: NetworkInterfaceReceivedPackets
+Patched top-level schema: SimpleApiError with x-go-name: SimpleApiError
+Patched top-level schema: AllItemsResponseAgentsKeys with x-go-name: AllItemsResponseAgentsKeys
+Patched top-level schema: WazuhRemotedStats with x-go-name: WazuhRemotedStats
+Patched top-level schema: Decoder with x-go-name: Decoder
+Patched top-level schema: AllItemsResponseSyscollectorProtocol with x-go-name: AllItemsResponseSyscollectorProtocol
+Patched top-level schema: WazuhLogsSummary with x-go-name: WazuhLogsSummary
+Patched top-level schema: SyscollectorPackages with x-go-name: SyscollectorPackages
+Patched top-level schema: ClusterLocalConfig with x-go-name: ClusterLocalConfig
+Patched top-level schema: WazuhAnalysisdStatsItem with x-go-name: WazuhAnalysisdStatsItem
+Patched top-level schema: RolesResponse with x-go-name: RolesResponse
+Patched top-level schema: ClusterNode with x-go-name: ClusterNode
+Patched top-level schema: RolesRequest_no_required with x-go-name: RolesRequest_no_required
+Patched top-level schema: NodeHealthcheck with x-go-name: NodeHealthcheck
+Patched top-level schema: WazuhLogs with x-go-name: WazuhLogs
+Patched top-level schema: SyscollectorProtocol with x-go-name: SyscollectorProtocol
+Patched top-level schema: AllItemsResponsePolicies with x-go-name: AllItemsResponsePolicies
+Patched top-level schema: AllItemsResponseClusterNodes with x-go-name: AllItemsResponseClusterNodes
+Patched top-level schema: AllItemsResponseSyscollectorOS with x-go-name: AllItemsResponseSyscollectorOS
+Patched top-level schema: Mitre_tactic_id with x-go-name: Mitre_tactic_id
+Patched top-level schema: AllItemsResponseSyscollectorHotfixes with x-go-name: AllItemsResponseSyscollectorHotfixes
+Patched top-level schema: Security_rule_id_DELETE with x-go-name: Security_rule_id_DELETE
+Patched top-level schema: SecurityRulesRequest with x-go-name: SecurityRulesRequest
+Patched top-level schema: LogtestRequest with x-go-name: LogtestRequest
+Patched top-level schema: SCAChecks with x-go-name: SCAChecks
+Patched top-level schema: AgentSynced with x-go-name: AgentSynced
+Patched top-level schema: SyscollectorNetwork with x-go-name: SyscollectorNetwork
+Patched top-level schema: PoliciesResponse with x-go-name: PoliciesResponse
+Patched top-level schema: ApiResponse with x-go-name: ApiResponse
+Patched top-level schema: APIconfiguration with x-go-name: APIconfiguration
+Patched top-level schema: Mitre_technique_id with x-go-name: Mitre_technique_id
+Patched top-level schema: GroupFiles with x-go-name: GroupFiles
+Patched top-level schema: SyscollectorInterface with x-go-name: SyscollectorInterface
+Patched top-level schema: User_id with x-go-name: User_id
+Patched top-level schema: PoliciesRequest with x-go-name: PoliciesRequest
+Patched top-level schema: SyscollectorProcess with x-go-name: SyscollectorProcess
+Patched top-level schema: PoliciesRequest_no_required with x-go-name: PoliciesRequest_no_required
+Patched top-level schema: AllItemsResponseSyscheckResult with x-go-name: AllItemsResponseSyscheckResult
+Patched top-level schema: SyscollectorOS with x-go-name: SyscollectorOS
+Patched top-level schema: CDBListFile with x-go-name: CDBListFile
+Patched top-level schema: CDBList with x-go-name: CDBList
+Patched top-level schema: WazuhAnalysisdStatsAgentsItem with x-go-name: WazuhAnalysisdStatsAgentsItem
+Patched top-level schema: NetworkInterfaceSentPackets with x-go-name: NetworkInterfaceSentPackets
+Patched top-level schema: DecoderFile with x-go-name: DecoderFile
+Patched top-level schema: AllItemsResponseSCAChecks with x-go-name: AllItemsResponseSCAChecks
+Patched top-level schema: AllItemsResponseLists with x-go-name: AllItemsResponseLists
+Patched top-level schema: AllItemsResponseAgentsSynced with x-go-name: AllItemsResponseAgentsSynced
+Patched top-level schema: Mitre_group_id with x-go-name: Mitre_group_id
+Patched top-level schema: BasicInfo with x-go-name: BasicInfo
+Patched top-level schema: Rule with x-go-name: Rule
+Patched top-level schema: CDBListPair with x-go-name: CDBListPair
+Patched top-level schema: CreateGroupBody with x-go-name: CreateGroupBody
+Patched top-level schema: AllItemsResponseValidationStatus with x-go-name: AllItemsResponseValidationStatus
+Patched top-level schema: AgentsSummaryStatus with x-go-name: AgentsSummaryStatus
+Patched top-level schema: AllItemsResponseUsers with x-go-name: AllItemsResponseUsers
+Patched top-level schema: AllItemsResponseWazuhLogs with x-go-name: AllItemsResponseWazuhLogs
+Patched top-level schema: AgentIdKey with x-go-name: AgentIdKey
+Patched top-level schema: AllItemsResponseWazuhDaemonStats with x-go-name: AllItemsResponseWazuhDaemonStats
+Patched top-level schema: AgentInsertForce with x-go-name: AgentInsertForce
+Patched top-level schema: AllItemsResponseRoles with x-go-name: AllItemsResponseRoles
+Patched top-level schema: AllItemsResponseWazuhStats with x-go-name: AllItemsResponseWazuhStats
+Patched top-level schema: ClusterNodeName with x-go-name: ClusterNodeName
+Patched top-level schema: ClusterNodeBasic with x-go-name: ClusterNodeBasic
+Patched top-level schema: OverviewAgents with x-go-name: OverviewAgents
+Patched top-level schema: SCADatabase with x-go-name: SCADatabase
+Patched top-level schema: WazuhHourlyStats with x-go-name: WazuhHourlyStats
+Patched top-level schema: ConfigurationValidation with x-go-name: ConfigurationValidation
+Patched top-level schema: WazuhDBStatsItem with x-go-name: WazuhDBStatsItem
+Patched top-level schema: RulesetFile with x-go-name: RulesetFile
+Patched top-level schema: AllItemsResponse with x-go-name: AllItemsResponse
+Patched top-level schema: AllItemsResponseCiscatResult with x-go-name: AllItemsResponseCiscatResult
+Patched top-level schema: User_id_DELETE with x-go-name: User_id_DELETE
+Patched top-level schema: SyscollectorPorts with x-go-name: SyscollectorPorts
+Patched top-level schema: SyscollectorHardware with x-go-name: SyscollectorHardware
+Patched top-level schema: UsersResponse with x-go-name: UsersResponse
+Patched top-level schema: WazuhDaemonsStatus with x-go-name: WazuhDaemonsStatus
+Patched top-level schema: AllItemsResponseSCADatabase with x-go-name: AllItemsResponseSCADatabase
+Patched top-level schema: AllItemsResponseSyscollectorHardware with x-go-name: AllItemsResponseSyscollectorHardware
+Patched top-level schema: Mitre_mitigation_id with x-go-name: Mitre_mitigation_id
+Patched top-level schema: Role_id with x-go-name: Role_id
+Patched top-level schema: LogSummary with x-go-name: LogSummary
+Patched top-level schema: AllItemsResponseAgents with x-go-name: AllItemsResponseAgents
+Patched top-level schema: AllItemsResponseSyscollectorPackages with x-go-name: AllItemsResponseSyscollectorPackages
+Patched top-level schema: ValidationStatus with x-go-name: ValidationStatus
+Patched top-level schema: AllItemsResponseNodeIDs with x-go-name: AllItemsResponseNodeIDs
+Patched top-level schema: AgentInsertBody with x-go-name: AgentInsertBody
+Patched top-level schema: AllItemsResponseNodeRulesetSynchronizationStatus with x-go-name: AllItemsResponseNodeRulesetSynchronizationStatus
+Patched top-level schema: AllItemsResponseGroups with x-go-name: AllItemsResponseGroups
+Patched top-level schema: AllItemsResponseAgentsDistinct with x-go-name: AllItemsResponseAgentsDistinct
+Patched top-level schema: AllItemsResponseRulesFiles with x-go-name: AllItemsResponseRulesFiles
+Patched top-level schema: RuleFile with x-go-name: RuleFile
+Patched top-level schema: NodeID with x-go-name: NodeID
+Patched top-level schema: AllItemsResponseListsFiles with x-go-name: AllItemsResponseListsFiles
+Patched top-level schema: Security_rule_id with x-go-name: Security_rule_id
+Patched top-level schema: ItemAffected with x-go-name: ItemAffected
+Patched top-level schema: AgentStatus with x-go-name: AgentStatus
+Patched top-level schema: NewVersions with x-go-name: NewVersions
+Patched top-level schema: AllItemsResponseRules with x-go-name: AllItemsResponseRules
+Patched top-level schema: AgentID with x-go-name: AgentID
+Patched top-level schema: Task_id with x-go-name: Task_id
+Patched top-level schema: ConfirmationMessage with x-go-name: ConfirmationMessage
+Patched top-level schema: ClusterLocalInfo with x-go-name: ClusterLocalInfo
+Patched top-level schema: RulesetStatus with x-go-name: RulesetStatus
+Found object schema with prefix: /security/config_DELETE_401_application/json_
+Found object schema with prefix: /security/config_DELETE_405_application/json_
+Found object schema with prefix: /security/config_DELETE_429_application/json_
+Found object schema with prefix: /security/config_DELETE_200_application/json_
+Found object schema with prefix: /security/config_DELETE_400_application/json_
+Found object schema with prefix: /security/config_GET_400_application/json_
+Found object schema with prefix: /security/config_GET_401_application/json_
+Found object schema with prefix: /security/config_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /security/config_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/config_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /security/config_GET_405_application/json_
+Found object schema with prefix: /security/config_GET_429_application/json_
+Found object schema with prefix: /security/config_GET_200_application/json_
+Found object schema with prefix: /security/config_PUT_requestBody_application/json_
+Found object schema with prefix: /security/config_PUT_406_application/json_
+Found object schema with prefix: /security/config_PUT_413_application/json_
+Found object schema with prefix: /security/config_PUT_429_application/json_
+Found object schema with prefix: /security/config_PUT_200_application/json_
+Found object schema with prefix: /security/config_PUT_400_application/json_
+Found object schema with prefix: /security/config_PUT_401_application/json_
+Found object schema with prefix: /security/config_PUT_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netaddr_GET_400_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netaddr_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netaddr_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscollector/{agent_id}/netaddr_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscollector/{agent_id}/netaddr_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/netaddr_GET_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netaddr_GET_429_application/json_
+Found object schema with prefix: /security/user/authenticate/run_as_POST_requestBody_application/json_
+Found object schema with prefix: /security/user/authenticate/run_as_POST_400_application/json_
+Found object schema with prefix: /security/user/authenticate/run_as_POST_401_application/json_
+Found object schema with prefix: /security/user/authenticate/run_as_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /security/user/authenticate/run_as_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/user/authenticate/run_as_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /security/user/authenticate/run_as_POST_405_application/json_
+Found object schema with prefix: /security/user/authenticate/run_as_POST_413_application/json_
+Found object schema with prefix: /security/user/authenticate/run_as_POST_429_application/json_
+Found object schema with prefix: /security/user/authenticate/run_as_POST_200_application/json_
+Found object schema with prefix: /experimental/syscollector/hotfixes_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/hotfixes_GET_401_application/json_
+Found object schema with prefix: /experimental/syscollector/hotfixes_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscollector/hotfixes_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscollector/hotfixes_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/hotfixes_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/hotfixes_GET_429_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/os_GET_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/os_GET_429_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/os_GET_400_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/os_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/os_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscollector/{agent_id}/os_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscollector/{agent_id}/os_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/ruleset/synchronization_GET_401_application/json_
+Found object schema with prefix: /cluster/ruleset/synchronization_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/ruleset/synchronization_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/ruleset/synchronization_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/ruleset/synchronization_GET_405_application/json_
+Found object schema with prefix: /cluster/ruleset/synchronization_GET_429_application/json_
+Found object schema with prefix: /cluster/ruleset/synchronization_GET_400_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}_DELETE_400_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}_DELETE_401_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /rootcheck/{agent_id}_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rootcheck/{agent_id}_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /rootcheck/{agent_id}_DELETE_405_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}_DELETE_429_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}_GET_401_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /rootcheck/{agent_id}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rootcheck/{agent_id}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /rootcheck/{agent_id}_GET_405_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}_GET_429_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}_GET_400_application/json_
+Found object schema with prefix: /security/users_DELETE_429_application/json_
+Found object schema with prefix: /security/users_DELETE_400_application/json_
+Found object schema with prefix: /security/users_DELETE_401_application/json_
+Found object schema with prefix: /security/users_DELETE_405_application/json_
+Found object schema with prefix: /security/users_DELETE_406_application/json_
+Found object schema with prefix: /security/users_GET_400_application/json_
+Found object schema with prefix: /security/users_GET_401_application/json_
+Found object schema with prefix: /security/users_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /security/users_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/users_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /security/users_GET_405_application/json_
+Found object schema with prefix: /security/users_GET_429_application/json_
+Found object schema with prefix: /security/users_POST_requestBody_application/json_
+Found object schema with prefix: /security/users_POST_405_application/json_
+Found object schema with prefix: /security/users_POST_406_application/json_
+Found object schema with prefix: /security/users_POST_413_application/json_
+Found object schema with prefix: /security/users_POST_429_application/json_
+Found object schema with prefix: /security/users_POST_400_application/json_
+Found object schema with prefix: /security/users_POST_401_application/json_
+Found object schema with prefix: /manager/stats/hourly_GET_400_application/json_
+Found object schema with prefix: /manager/stats/hourly_GET_401_application/json_
+Found object schema with prefix: /manager/stats/hourly_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/stats/hourly_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/stats/hourly_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/stats/hourly_GET_405_application/json_
+Found object schema with prefix: /manager/stats/hourly_GET_429_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netiface_GET_400_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netiface_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netiface_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscollector/{agent_id}/netiface_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscollector/{agent_id}/netiface_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/netiface_GET_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netiface_GET_429_application/json_
+Found object schema with prefix: /manager/restart_PUT_401_application/json_
+Found object schema with prefix: /manager/restart_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/restart_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/restart_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/restart_PUT_405_application/json_
+Found object schema with prefix: /manager/restart_PUT_429_application/json_
+Found object schema with prefix: /manager/restart_PUT_200_application/json_
+Found object schema with prefix: /manager/restart_PUT_400_application/json_
+Found object schema with prefix: /manager/stats/remoted_GET_400_application/json_
+Found object schema with prefix: /manager/stats/remoted_GET_401_application/json_
+Found object schema with prefix: /manager/stats/remoted_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/stats/remoted_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/stats/remoted_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/stats/remoted_GET_405_application/json_
+Found object schema with prefix: /manager/stats/remoted_GET_429_application/json_
+Found object schema with prefix: /security/roles/{role_id}/rules_DELETE_405_application/json_
+Found object schema with prefix: /security/roles/{role_id}/rules_DELETE_429_application/json_
+Found object schema with prefix: /security/roles/{role_id}/rules_DELETE_400_application/json_
+Found object schema with prefix: /security/roles/{role_id}/rules_DELETE_401_application/json_
+Found object schema with prefix: /security/roles/{role_id}/rules_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /security/roles/{role_id}/rules_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/roles/{role_id}/rules_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /security/roles/{role_id}/rules_POST_401_application/json_
+Found object schema with prefix: /security/roles/{role_id}/rules_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /security/roles/{role_id}/rules_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/roles/{role_id}/rules_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /security/roles/{role_id}/rules_POST_405_application/json_
+Found object schema with prefix: /security/roles/{role_id}/rules_POST_429_application/json_
+Found object schema with prefix: /security/roles/{role_id}/rules_POST_400_application/json_
+Found object schema with prefix: /syscheck/{agent_id}_DELETE_400_application/json_
+Found object schema with prefix: /syscheck/{agent_id}_DELETE_401_application/json_
+Found object schema with prefix: /syscheck/{agent_id}_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /syscheck/{agent_id}_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscheck/{agent_id}_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /syscheck/{agent_id}_DELETE_405_application/json_
+Found object schema with prefix: /syscheck/{agent_id}_DELETE_429_application/json_
+Found object schema with prefix: /syscheck/{agent_id}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscheck/{agent_id}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscheck/{agent_id}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscheck/{agent_id}_GET_405_application/json_
+Found object schema with prefix: /syscheck/{agent_id}_GET_429_application/json_
+Found object schema with prefix: /syscheck/{agent_id}_GET_400_application/json_
+Found object schema with prefix: /syscheck/{agent_id}_GET_401_application/json_
+Found object schema with prefix: /lists_GET_401_application/json_
+Found object schema with prefix: /lists_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /lists_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /lists_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /lists_GET_405_application/json_
+Found object schema with prefix: /lists_GET_429_application/json_
+Found object schema with prefix: /lists_GET_400_application/json_
+Found object schema with prefix: /rules/files/{filename}_DELETE_401_application/json_
+Found object schema with prefix: /rules/files/{filename}_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /rules/files/{filename}_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rules/files/{filename}_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /rules/files/{filename}_DELETE_405_application/json_
+Found object schema with prefix: /rules/files/{filename}_DELETE_429_application/json_
+Found object schema with prefix: /rules/files/{filename}_DELETE_400_application/json_
+Found object schema with prefix: /rules/files/{filename}_GET_405_application/json_
+Found object schema with prefix: /rules/files/{filename}_GET_429_application/json_
+Found object schema with prefix: /rules/files/{filename}_GET_400_application/json_
+Found object schema with prefix: /rules/files/{filename}_GET_401_application/json_
+Found object schema with prefix: /rules/files/{filename}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /rules/files/{filename}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rules/files/{filename}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /rules/files/{filename}_PUT_405_application/json_
+Found object schema with prefix: /rules/files/{filename}_PUT_406_application/json_
+Found object schema with prefix: /rules/files/{filename}_PUT_413_application/json_
+Found object schema with prefix: /rules/files/{filename}_PUT_429_application/json_
+Found object schema with prefix: /rules/files/{filename}_PUT_400_application/json_
+Found object schema with prefix: /rules/files/{filename}_PUT_401_application/json_
+Found object schema with prefix: /rules/files/{filename}_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /rules/files/{filename}_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rules/files/{filename}_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/upgrade_custom_PUT_405_application/json_
+Found object schema with prefix: /agents/upgrade_custom_PUT_429_application/json_
+Found object schema with prefix: /agents/upgrade_custom_PUT_200_application/json_
+Found object schema with prefix: /agents/upgrade_custom_PUT_400_application/json_
+Found object schema with prefix: /agents/upgrade_custom_PUT_401_application/json_
+Found object schema with prefix: /agents/upgrade_custom_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/upgrade_custom_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/upgrade_custom_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /mitre/metadata_GET_400_application/json_
+Found object schema with prefix: /mitre/metadata_GET_401_application/json_
+Found object schema with prefix: /mitre/metadata_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /mitre/metadata_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /mitre/metadata_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /mitre/metadata_GET_405_application/json_
+Found object schema with prefix: /mitre/metadata_GET_429_application/json_
+Found object schema with prefix: /groups_DELETE_405_application/json_
+Found object schema with prefix: /groups_DELETE_429_application/json_
+Found object schema with prefix: /groups_DELETE_400_application/json_
+Found object schema with prefix: /groups_DELETE_401_application/json_
+Found object schema with prefix: /groups_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /groups_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /groups_GET_401_application/json_
+Found object schema with prefix: /groups_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /groups_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /groups_GET_405_application/json_
+Found object schema with prefix: /groups_GET_429_application/json_
+Found object schema with prefix: /groups_GET_400_application/json_
+Found object schema with prefix: /groups_POST_requestBody_application/json_
+Found object schema with prefix: /groups_POST_401_application/json_
+Found object schema with prefix: /groups_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /groups_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /groups_POST_405_application/json_
+Found object schema with prefix: /groups_POST_429_application/json_
+Found object schema with prefix: /groups_POST_200_application/json_
+Found object schema with prefix: /groups_POST_400_application/json_
+Found object schema with prefix: /manager/configuration/validation_GET_429_application/json_
+Found object schema with prefix: /manager/configuration/validation_GET_200_application/json_
+Found object schema with prefix: /manager/configuration/validation_GET_400_application/json_
+Found object schema with prefix: /manager/configuration/validation_GET_401_application/json_
+Found object schema with prefix: /manager/configuration/validation_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/configuration/validation_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/configuration/validation_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/configuration/validation_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/netproto_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/netproto_GET_401_application/json_
+Found object schema with prefix: /experimental/syscollector/netproto_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscollector/netproto_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscollector/netproto_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/netproto_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/netproto_GET_429_application/json_
+Found object schema with prefix: /rules/files_GET_400_application/json_
+Found object schema with prefix: /rules/files_GET_401_application/json_
+Found object schema with prefix: /rules/files_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /rules/files_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rules/files_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /rules/files_GET_405_application/json_
+Found object schema with prefix: /rules/files_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/configuration_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/configuration_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/configuration_PUT_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_PUT_406_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_PUT_413_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_PUT_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_PUT_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_PUT_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/configuration_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/configuration_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/configuration_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration_GET_429_application/json_
+Found object schema with prefix: /experimental/syscollector/hardware_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/hardware_GET_401_application/json_
+Found object schema with prefix: /experimental/syscollector/hardware_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscollector/hardware_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscollector/hardware_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/hardware_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/hardware_GET_429_application/json_
+Found object schema with prefix: /agents/group_DELETE_429_application/json_
+Found object schema with prefix: /agents/group_DELETE_400_application/json_
+Found object schema with prefix: /agents/group_DELETE_401_application/json_
+Found object schema with prefix: /agents/group_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/group_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/group_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/group_DELETE_404_application/json_
+Patched property dapi_errors with x-go-name: /agents/group_DELETE_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/group_DELETE_404_application/json_dapi_errors_
+Found object schema with prefix: /agents/group_DELETE_405_application/json_
+Found object schema with prefix: /agents/group_PUT_405_application/json_
+Found object schema with prefix: /agents/group_PUT_429_application/json_
+Found object schema with prefix: /agents/group_PUT_400_application/json_
+Found object schema with prefix: /agents/group_PUT_401_application/json_
+Found object schema with prefix: /agents/group_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/group_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/group_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/group_PUT_404_application/json_
+Patched property dapi_errors with x-go-name: /agents/group_PUT_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/group_PUT_404_application/json_dapi_errors_
+Found object schema with prefix: /agents/no_group_GET_429_application/json_
+Found object schema with prefix: /agents/no_group_GET_400_application/json_
+Found object schema with prefix: /agents/no_group_GET_401_application/json_
+Found object schema with prefix: /agents/no_group_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/no_group_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/no_group_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/no_group_GET_405_application/json_
+Found object schema with prefix: /manager/configuration_PUT_415_application/json_
+Patched property dapi_errors with x-go-name: /manager/configuration_PUT_415_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/configuration_PUT_415_application/json_dapi_errors_
+Found object schema with prefix: /manager/configuration_PUT_400_application/json_
+Found object schema with prefix: /manager/configuration_PUT_401_application/json_
+Found object schema with prefix: /manager/configuration_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/configuration_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/configuration_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/configuration_PUT_405_application/json_
+Found object schema with prefix: /manager/configuration_PUT_406_application/json_
+Found object schema with prefix: /manager/configuration_PUT_413_application/json_
+Found object schema with prefix: /manager/configuration_PUT_429_application/json_
+Found object schema with prefix: /manager/configuration_GET_400_application/json_
+Found object schema with prefix: /manager/configuration_GET_401_application/json_
+Found object schema with prefix: /manager/configuration_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/configuration_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/configuration_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/configuration_GET_405_application/json_
+Found object schema with prefix: /manager/configuration_GET_429_application/json_
+Found object schema with prefix: /syscheck/{agent_id}/last_scan_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscheck/{agent_id}/last_scan_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscheck/{agent_id}/last_scan_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscheck/{agent_id}/last_scan_GET_405_application/json_
+Found object schema with prefix: /syscheck/{agent_id}/last_scan_GET_429_application/json_
+Found object schema with prefix: /syscheck/{agent_id}/last_scan_GET_400_application/json_
+Found object schema with prefix: /syscheck/{agent_id}/last_scan_GET_401_application/json_
+Found object schema with prefix: /manager/status_GET_401_application/json_
+Found object schema with prefix: /manager/status_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/status_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/status_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/status_GET_405_application/json_
+Found object schema with prefix: /manager/status_GET_429_application/json_
+Found object schema with prefix: /manager/status_GET_400_application/json_
+Found object schema with prefix: /events_POST_requestBody_application/json_
+Found object schema with prefix: /events_POST_429_application/json_
+Found object schema with prefix: /events_POST_200_application/json_
+Found object schema with prefix: /events_POST_400_application/json_
+Found object schema with prefix: /events_POST_401_application/json_
+Found object schema with prefix: /events_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /events_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /events_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /events_POST_405_application/json_
+Found object schema with prefix: /events_POST_406_application/json_
+Found object schema with prefix: /events_POST_413_application/json_
+Found object schema with prefix: /agents/insert/quick_POST_400_application/json_
+Found object schema with prefix: /agents/insert/quick_POST_401_application/json_
+Found object schema with prefix: /agents/insert/quick_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/insert/quick_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/insert/quick_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/insert/quick_POST_405_application/json_
+Found object schema with prefix: /agents/insert/quick_POST_429_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/ports_GET_400_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/ports_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/ports_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscollector/{agent_id}/ports_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscollector/{agent_id}/ports_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/ports_GET_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/ports_GET_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/group_DELETE_401_application/json_
+Found object schema with prefix: /agents/{agent_id}/group_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/group_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/group_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/group_DELETE_405_application/json_
+Found object schema with prefix: /agents/{agent_id}/group_DELETE_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/group_DELETE_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/key_GET_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/key_GET_401_application/json_
+Found object schema with prefix: /agents/{agent_id}/key_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/key_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/key_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/key_GET_405_application/json_
+Found object schema with prefix: /agents/{agent_id}/key_GET_429_application/json_
+Found object schema with prefix: /manager/logs_GET_405_application/json_
+Found object schema with prefix: /manager/logs_GET_429_application/json_
+Found object schema with prefix: /manager/logs_GET_400_application/json_
+Found object schema with prefix: /manager/logs_GET_401_application/json_
+Found object schema with prefix: /manager/logs_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/logs_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/logs_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /mitre/groups_GET_400_application/json_
+Found object schema with prefix: /mitre/groups_GET_401_application/json_
+Found object schema with prefix: /mitre/groups_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /mitre/groups_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /mitre/groups_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /mitre/groups_GET_405_application/json_
+Found object schema with prefix: /mitre/groups_GET_429_application/json_
+Found object schema with prefix: /_GET_200_application/json_
+Patched property data with x-go-name: /_GET_200_application/json_DataSchema
+Found object schema with prefix: /_GET_200_application/json_data_
+Found object schema with prefix: /cluster/{node_id}/daemons/stats_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/daemons/stats_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/daemons/stats_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/daemons/stats_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/daemons/stats_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/daemons/stats_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/daemons/stats_GET_429_application/json_
+Found object schema with prefix: /decoders/files/{filename}_DELETE_401_application/json_
+Found object schema with prefix: /decoders/files/{filename}_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /decoders/files/{filename}_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /decoders/files/{filename}_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /decoders/files/{filename}_DELETE_405_application/json_
+Found object schema with prefix: /decoders/files/{filename}_DELETE_429_application/json_
+Found object schema with prefix: /decoders/files/{filename}_DELETE_400_application/json_
+Found object schema with prefix: /decoders/files/{filename}_GET_400_application/json_
+Found object schema with prefix: /decoders/files/{filename}_GET_401_application/json_
+Found object schema with prefix: /decoders/files/{filename}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /decoders/files/{filename}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /decoders/files/{filename}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /decoders/files/{filename}_GET_405_application/json_
+Found object schema with prefix: /decoders/files/{filename}_GET_429_application/json_
+Found object schema with prefix: /decoders/files/{filename}_PUT_401_application/json_
+Found object schema with prefix: /decoders/files/{filename}_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /decoders/files/{filename}_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /decoders/files/{filename}_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /decoders/files/{filename}_PUT_405_application/json_
+Found object schema with prefix: /decoders/files/{filename}_PUT_406_application/json_
+Found object schema with prefix: /decoders/files/{filename}_PUT_413_application/json_
+Found object schema with prefix: /decoders/files/{filename}_PUT_429_application/json_
+Found object schema with prefix: /decoders/files/{filename}_PUT_400_application/json_
+Found object schema with prefix: /mitre/mitigations_GET_400_application/json_
+Found object schema with prefix: /mitre/mitigations_GET_401_application/json_
+Found object schema with prefix: /mitre/mitigations_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /mitre/mitigations_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /mitre/mitigations_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /mitre/mitigations_GET_405_application/json_
+Found object schema with prefix: /mitre/mitigations_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/weekly_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/weekly_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/weekly_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/stats/weekly_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/stats/weekly_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/stats/weekly_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/weekly_GET_429_application/json_
+Found object schema with prefix: /experimental/syscollector/os_GET_401_application/json_
+Found object schema with prefix: /experimental/syscollector/os_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscollector/os_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscollector/os_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/os_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/os_GET_429_application/json_
+Found object schema with prefix: /experimental/syscollector/os_GET_400_application/json_
+Found object schema with prefix: /lists/files/{filename}_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /lists/files/{filename}_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /lists/files/{filename}_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /lists/files/{filename}_DELETE_405_application/json_
+Found object schema with prefix: /lists/files/{filename}_DELETE_429_application/json_
+Found object schema with prefix: /lists/files/{filename}_DELETE_400_application/json_
+Found object schema with prefix: /lists/files/{filename}_DELETE_401_application/json_
+Found object schema with prefix: /lists/files/{filename}_GET_405_application/json_
+Found object schema with prefix: /lists/files/{filename}_GET_429_application/json_
+Found object schema with prefix: /lists/files/{filename}_GET_400_application/json_
+Found object schema with prefix: /lists/files/{filename}_GET_401_application/json_
+Found object schema with prefix: /lists/files/{filename}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /lists/files/{filename}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /lists/files/{filename}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /lists/files/{filename}_PUT_405_application/json_
+Found object schema with prefix: /lists/files/{filename}_PUT_413_application/json_
+Found object schema with prefix: /lists/files/{filename}_PUT_429_application/json_
+Found object schema with prefix: /lists/files/{filename}_PUT_400_application/json_
+Found object schema with prefix: /lists/files/{filename}_PUT_401_application/json_
+Found object schema with prefix: /lists/files/{filename}_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /lists/files/{filename}_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /lists/files/{filename}_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /security/user/revoke_PUT_401_application/json_
+Found object schema with prefix: /security/user/revoke_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /security/user/revoke_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/user/revoke_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /security/user/revoke_PUT_405_application/json_
+Found object schema with prefix: /security/user/revoke_PUT_429_application/json_
+Found object schema with prefix: /security/user/revoke_PUT_200_application/json_
+Found object schema with prefix: /security/user/revoke_PUT_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/restart_PUT_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/restart_PUT_401_application/json_
+Found object schema with prefix: /agents/{agent_id}/restart_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/restart_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/restart_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/restart_PUT_405_application/json_
+Found object schema with prefix: /agents/{agent_id}/restart_PUT_429_application/json_
+Found object schema with prefix: /rootcheck_PUT_400_application/json_
+Found object schema with prefix: /rootcheck_PUT_401_application/json_
+Found object schema with prefix: /rootcheck_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /rootcheck_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rootcheck_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /rootcheck_PUT_405_application/json_
+Found object schema with prefix: /rootcheck_PUT_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/hourly_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/hourly_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/hourly_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/hourly_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/stats/hourly_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/stats/hourly_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/stats/hourly_GET_405_application/json_
+Found object schema with prefix: /security/users/{user_id}_PUT_requestBody_application/json_
+Found object schema with prefix: /security/users/{user_id}_PUT_405_application/json_
+Found object schema with prefix: /security/users/{user_id}_PUT_406_application/json_
+Found object schema with prefix: /security/users/{user_id}_PUT_429_application/json_
+Found object schema with prefix: /security/users/{user_id}_PUT_400_application/json_
+Found object schema with prefix: /security/users/{user_id}_PUT_401_application/json_
+Found object schema with prefix: /agents/summary/os_GET_405_application/json_
+Found object schema with prefix: /agents/summary/os_GET_429_application/json_
+Found object schema with prefix: /agents/summary/os_GET_400_application/json_
+Found object schema with prefix: /agents/summary/os_GET_401_application/json_
+Found object schema with prefix: /agents/summary/os_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/summary/os_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/summary/os_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /groups/{group_id}/files/{file_name}_GET_404_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/files/{file_name}_GET_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/files/{file_name}_GET_404_application/json_dapi_errors_
+Found object schema with prefix: /groups/{group_id}/files/{file_name}_GET_405_application/json_
+Found object schema with prefix: /groups/{group_id}/files/{file_name}_GET_429_application/json_
+Found object schema with prefix: /groups/{group_id}/files/{file_name}_GET_400_application/json_
+Found object schema with prefix: /groups/{group_id}/files/{file_name}_GET_401_application/json_
+Found object schema with prefix: /groups/{group_id}/files/{file_name}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/files/{file_name}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/files/{file_name}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/summary/status_GET_405_application/json_
+Found object schema with prefix: /agents/summary/status_GET_429_application/json_
+Found object schema with prefix: /agents/summary/status_GET_400_application/json_
+Found object schema with prefix: /agents/summary/status_GET_401_application/json_
+Found object schema with prefix: /agents/summary/status_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/summary/status_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/summary/status_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /security/roles_DELETE_401_application/json_
+Found object schema with prefix: /security/roles_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /security/roles_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/roles_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /security/roles_DELETE_405_application/json_
+Found object schema with prefix: /security/roles_DELETE_429_application/json_
+Found object schema with prefix: /security/roles_DELETE_400_application/json_
+Found object schema with prefix: /security/roles_GET_405_application/json_
+Found object schema with prefix: /security/roles_GET_429_application/json_
+Found object schema with prefix: /security/roles_GET_400_application/json_
+Found object schema with prefix: /security/roles_GET_401_application/json_
+Found object schema with prefix: /security/roles_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /security/roles_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/roles_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /security/roles_POST_requestBody_application/json_
+Found object schema with prefix: /security/roles_POST_400_application/json_
+Found object schema with prefix: /security/roles_POST_401_application/json_
+Found object schema with prefix: /security/roles_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /security/roles_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/roles_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /security/roles_POST_405_application/json_
+Found object schema with prefix: /security/roles_POST_406_application/json_
+Found object schema with prefix: /security/roles_POST_413_application/json_
+Found object schema with prefix: /security/roles_POST_429_application/json_
+Found object schema with prefix: /mitre/software_GET_400_application/json_
+Found object schema with prefix: /mitre/software_GET_401_application/json_
+Found object schema with prefix: /mitre/software_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /mitre/software_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /mitre/software_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /mitre/software_GET_405_application/json_
+Found object schema with prefix: /mitre/software_GET_429_application/json_
+Found object schema with prefix: /manager/stats_GET_405_application/json_
+Found object schema with prefix: /manager/stats_GET_429_application/json_
+Found object schema with prefix: /manager/stats_GET_400_application/json_
+Found object schema with prefix: /manager/stats_GET_401_application/json_
+Found object schema with prefix: /manager/stats_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/stats_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/stats_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/status_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/status_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/status_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/status_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/status_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/status_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/status_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/processes_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/processes_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscollector/{agent_id}/processes_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscollector/{agent_id}/processes_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/processes_GET_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/processes_GET_429_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/processes_GET_400_application/json_
+Found object schema with prefix: /manager/logs/summary_GET_429_application/json_
+Found object schema with prefix: /manager/logs/summary_GET_400_application/json_
+Found object schema with prefix: /manager/logs/summary_GET_401_application/json_
+Found object schema with prefix: /manager/logs/summary_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/logs/summary_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/logs/summary_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/logs/summary_GET_405_application/json_
+Found object schema with prefix: /rules/groups_GET_401_application/json_
+Found object schema with prefix: /rules/groups_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /rules/groups_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rules/groups_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /rules/groups_GET_405_application/json_
+Found object schema with prefix: /rules/groups_GET_429_application/json_
+Found object schema with prefix: /rules/groups_GET_400_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/packages_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/packages_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscollector/{agent_id}/packages_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscollector/{agent_id}/packages_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/packages_GET_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/packages_GET_429_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/packages_GET_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/config/{component}/{configuration}_GET_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/config/{component}/{configuration}_GET_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/config/{component}/{configuration}_GET_401_application/json_
+Found object schema with prefix: /agents/{agent_id}/config/{component}/{configuration}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/config/{component}/{configuration}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/config/{component}/{configuration}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/config/{component}/{configuration}_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/info_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/info_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/info_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/info_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/info_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/info_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/info_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/status_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/status_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/status_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/status_GET_405_application/json_
+Found object schema with prefix: /cluster/status_GET_429_application/json_
+Found object schema with prefix: /cluster/status_GET_400_application/json_
+Found object schema with prefix: /cluster/status_GET_401_application/json_
+Found object schema with prefix: /agents/{agent_id}/stats/{component}_GET_405_application/json_
+Found object schema with prefix: /agents/{agent_id}/stats/{component}_GET_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/stats/{component}_GET_200_application/json_
+Found object schema with prefix: /agents/{agent_id}/stats/{component}_GET_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/stats/{component}_GET_401_application/json_
+Found object schema with prefix: /agents/{agent_id}/stats/{component}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/stats/{component}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/stats/{component}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/netproto_GET_400_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netproto_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netproto_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscollector/{agent_id}/netproto_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscollector/{agent_id}/netproto_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/netproto_GET_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/netproto_GET_429_application/json_
+Found object schema with prefix: /security/resources_GET_405_application/json_
+Found object schema with prefix: /security/resources_GET_429_application/json_
+Found object schema with prefix: /security/resources_GET_400_application/json_
+Found object schema with prefix: /security/resources_GET_401_application/json_
+Found object schema with prefix: /security/resources_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /security/resources_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/resources_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /security/actions_GET_401_application/json_
+Found object schema with prefix: /security/actions_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /security/actions_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/actions_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /security/actions_GET_405_application/json_
+Found object schema with prefix: /security/actions_GET_429_application/json_
+Found object schema with prefix: /security/actions_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/logs/summary_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/logs/summary_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/logs/summary_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/logs/summary_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/logs/summary_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/logs/summary_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/logs/summary_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/stats/weekly_GET_405_application/json_
+Found object schema with prefix: /manager/stats/weekly_GET_429_application/json_
+Found object schema with prefix: /manager/stats/weekly_GET_400_application/json_
+Found object schema with prefix: /manager/stats/weekly_GET_401_application/json_
+Found object schema with prefix: /manager/stats/weekly_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/stats/weekly_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/stats/weekly_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/hardware_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/hardware_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscollector/{agent_id}/hardware_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscollector/{agent_id}/hardware_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/hardware_GET_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/hardware_GET_429_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/hardware_GET_400_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/hotfixes_GET_400_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/hotfixes_GET_401_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/hotfixes_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /syscollector/{agent_id}/hotfixes_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscollector/{agent_id}/hotfixes_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /syscollector/{agent_id}/hotfixes_GET_405_application/json_
+Found object schema with prefix: /syscollector/{agent_id}/hotfixes_GET_429_application/json_
+Found object schema with prefix: /security/policies/{policy_id}_PUT_requestBody_application/json_
+Patched property policy with x-go-name: /security/policies/{policy_id}_PUT_requestBody_application/json_PolicySchema
+Found object schema with prefix: /security/policies/{policy_id}_PUT_requestBody_application/json_policy_
+Found object schema with prefix: /security/policies/{policy_id}_PUT_429_application/json_
+Found object schema with prefix: /security/policies/{policy_id}_PUT_400_application/json_
+Found object schema with prefix: /security/policies/{policy_id}_PUT_401_application/json_
+Found object schema with prefix: /security/policies/{policy_id}_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /security/policies/{policy_id}_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/policies/{policy_id}_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /security/policies/{policy_id}_PUT_405_application/json_
+Found object schema with prefix: /security/policies/{policy_id}_PUT_406_application/json_
+Found object schema with prefix: /security/policies/{policy_id}_PUT_413_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_GET_404_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/configuration_GET_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/configuration_GET_404_application/json_dapi_errors_
+Found object schema with prefix: /groups/{group_id}/configuration_GET_405_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_GET_429_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_GET_200_application/json_
+Patched property data with x-go-name: /groups/{group_id}/configuration_GET_200_application/json_DataSchema
+Found object schema with prefix: /groups/{group_id}/configuration_GET_200_application/json_data_
+Found object schema with prefix: /groups/{group_id}/configuration_GET_200_application/json_data_affected_items_Items_
+Patched property config with x-go-name: /groups/{group_id}/configuration_GET_200_application/json_data_affected_items_Items_ConfigSchema
+Found object schema with prefix: /groups/{group_id}/configuration_GET_200_application/json_data_affected_items_Items_config_
+Patched property filters with x-go-name: /groups/{group_id}/configuration_GET_200_application/json_data_affected_items_Items_FiltersSchema
+Found object schema with prefix: /groups/{group_id}/configuration_GET_200_application/json_data_affected_items_Items_filters_
+Found object schema with prefix: /groups/{group_id}/configuration_GET_400_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_GET_401_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/configuration_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/configuration_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_413_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_401_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_406_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_405_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_429_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_200_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_400_application/json_
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/configuration_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_404_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/configuration_PUT_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/configuration_PUT_404_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/configuration/{component}/{configuration}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/configuration/{component}/{configuration}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/configuration/{component}/{configuration}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/configuration/{component}/{configuration}_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration/{component}/{configuration}_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration/{component}/{configuration}_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/configuration/{component}/{configuration}_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/remoted_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/remoted_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/remoted_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/stats/remoted_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/stats/remoted_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/stats/remoted_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/remoted_GET_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/group/{group_id}_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_DELETE_404_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/group/{group_id}_DELETE_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_DELETE_404_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_DELETE_405_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_DELETE_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_DELETE_200_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_DELETE_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_DELETE_401_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_PUT_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_PUT_200_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_PUT_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_PUT_401_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/group/{group_id}_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_PUT_404_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/group/{group_id}_PUT_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_PUT_404_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/group/{group_id}_PUT_405_application/json_
+Found object schema with prefix: /mitre/tactics_GET_400_application/json_
+Found object schema with prefix: /mitre/tactics_GET_401_application/json_
+Found object schema with prefix: /mitre/tactics_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /mitre/tactics_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /mitre/tactics_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /mitre/tactics_GET_405_application/json_
+Found object schema with prefix: /mitre/tactics_GET_429_application/json_
+Found object schema with prefix: /cluster/restart_PUT_429_application/json_
+Found object schema with prefix: /cluster/restart_PUT_400_application/json_
+Found object schema with prefix: /cluster/restart_PUT_401_application/json_
+Found object schema with prefix: /cluster/restart_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/restart_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/restart_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/restart_PUT_405_application/json_
+Found object schema with prefix: /groups/{group_id}/agents_GET_400_application/json_
+Found object schema with prefix: /groups/{group_id}/agents_GET_401_application/json_
+Found object schema with prefix: /groups/{group_id}/agents_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/agents_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/agents_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /groups/{group_id}/agents_GET_404_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/agents_GET_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/agents_GET_404_application/json_dapi_errors_
+Found object schema with prefix: /groups/{group_id}/agents_GET_405_application/json_
+Found object schema with prefix: /groups/{group_id}/agents_GET_429_application/json_
+Found object schema with prefix: /decoders_GET_400_application/json_
+Found object schema with prefix: /decoders_GET_401_application/json_
+Found object schema with prefix: /decoders_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /decoders_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /decoders_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /decoders_GET_405_application/json_
+Found object schema with prefix: /decoders_GET_429_application/json_
+Found object schema with prefix: /mitre/techniques_GET_405_application/json_
+Found object schema with prefix: /mitre/techniques_GET_429_application/json_
+Found object schema with prefix: /mitre/techniques_GET_400_application/json_
+Found object schema with prefix: /mitre/techniques_GET_401_application/json_
+Found object schema with prefix: /mitre/techniques_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /mitre/techniques_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /mitre/techniques_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/healthcheck_GET_429_application/json_
+Found object schema with prefix: /cluster/healthcheck_GET_400_application/json_
+Found object schema with prefix: /cluster/healthcheck_GET_401_application/json_
+Found object schema with prefix: /cluster/healthcheck_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/healthcheck_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/healthcheck_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/healthcheck_GET_405_application/json_
+Found object schema with prefix: /cluster/nodes_GET_401_application/json_
+Found object schema with prefix: /cluster/nodes_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/nodes_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/nodes_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/nodes_GET_405_application/json_
+Found object schema with prefix: /cluster/nodes_GET_429_application/json_
+Found object schema with prefix: /cluster/nodes_GET_400_application/json_
+Found object schema with prefix: /security/roles/{role_id}/policies_DELETE_429_application/json_
+Found object schema with prefix: /security/roles/{role_id}/policies_DELETE_400_application/json_
+Found object schema with prefix: /security/roles/{role_id}/policies_DELETE_401_application/json_
+Found object schema with prefix: /security/roles/{role_id}/policies_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /security/roles/{role_id}/policies_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/roles/{role_id}/policies_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /security/roles/{role_id}/policies_DELETE_405_application/json_
+Found object schema with prefix: /security/roles/{role_id}/policies_POST_429_application/json_
+Found object schema with prefix: /security/roles/{role_id}/policies_POST_400_application/json_
+Found object schema with prefix: /security/roles/{role_id}/policies_POST_401_application/json_
+Found object schema with prefix: /security/roles/{role_id}/policies_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /security/roles/{role_id}/policies_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/roles/{role_id}/policies_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /security/roles/{role_id}/policies_POST_405_application/json_
+Found object schema with prefix: /agents/restart_PUT_400_application/json_
+Found object schema with prefix: /agents/restart_PUT_401_application/json_
+Found object schema with prefix: /agents/restart_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/restart_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/restart_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/restart_PUT_405_application/json_
+Found object schema with prefix: /agents/restart_PUT_429_application/json_
+Found object schema with prefix: /security/roles/{role_id}_PUT_requestBody_application/json_
+Found object schema with prefix: /security/roles/{role_id}_PUT_405_application/json_
+Found object schema with prefix: /security/roles/{role_id}_PUT_406_application/json_
+Found object schema with prefix: /security/roles/{role_id}_PUT_413_application/json_
+Found object schema with prefix: /security/roles/{role_id}_PUT_429_application/json_
+Found object schema with prefix: /security/roles/{role_id}_PUT_400_application/json_
+Found object schema with prefix: /security/roles/{role_id}_PUT_401_application/json_
+Found object schema with prefix: /security/roles/{role_id}_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /security/roles/{role_id}_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/roles/{role_id}_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /rootcheck/{agent_id}/last_scan_GET_405_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}/last_scan_GET_429_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}/last_scan_GET_400_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}/last_scan_GET_401_application/json_
+Found object schema with prefix: /rootcheck/{agent_id}/last_scan_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /rootcheck/{agent_id}/last_scan_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rootcheck/{agent_id}/last_scan_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/upgrade_PUT_200_application/json_
+Found object schema with prefix: /agents/upgrade_PUT_400_application/json_
+Found object schema with prefix: /agents/upgrade_PUT_401_application/json_
+Found object schema with prefix: /agents/upgrade_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/upgrade_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/upgrade_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/upgrade_PUT_405_application/json_
+Found object schema with prefix: /agents/upgrade_PUT_429_application/json_
+Found object schema with prefix: /security/rules/{rule_id}_PUT_requestBody_application/json_
+Patched property rule with x-go-name: /security/rules/{rule_id}_PUT_requestBody_application/json_RuleSchema
+Found object schema with prefix: /security/rules/{rule_id}_PUT_requestBody_application/json_rule_
+Found object schema with prefix: /security/rules/{rule_id}_PUT_413_application/json_
+Found object schema with prefix: /security/rules/{rule_id}_PUT_429_application/json_
+Found object schema with prefix: /security/rules/{rule_id}_PUT_400_application/json_
+Found object schema with prefix: /security/rules/{rule_id}_PUT_401_application/json_
+Found object schema with prefix: /security/rules/{rule_id}_PUT_405_application/json_
+Found object schema with prefix: /security/rules/{rule_id}_PUT_406_application/json_
+Found object schema with prefix: /agents/upgrade_result_GET_429_application/json_
+Found object schema with prefix: /agents/upgrade_result_GET_200_application/json_
+Found object schema with prefix: /agents/upgrade_result_GET_400_application/json_
+Found object schema with prefix: /agents/upgrade_result_GET_401_application/json_
+Found object schema with prefix: /agents/upgrade_result_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/upgrade_result_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/upgrade_result_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/upgrade_result_GET_405_application/json_
+Found object schema with prefix: /decoders/parents_GET_401_application/json_
+Found object schema with prefix: /decoders/parents_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /decoders/parents_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /decoders/parents_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /decoders/parents_GET_405_application/json_
+Found object schema with prefix: /decoders/parents_GET_429_application/json_
+Found object schema with prefix: /decoders/parents_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/netiface_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/netiface_GET_401_application/json_
+Found object schema with prefix: /experimental/syscollector/netiface_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscollector/netiface_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscollector/netiface_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/netiface_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/netiface_GET_429_application/json_
+Found object schema with prefix: /cluster/api/config_GET_200_application/json_
+Found object schema with prefix: /cluster/api/config_GET_400_application/json_
+Found object schema with prefix: /cluster/api/config_GET_401_application/json_
+Found object schema with prefix: /cluster/api/config_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/api/config_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/api/config_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/api/config_GET_405_application/json_
+Found object schema with prefix: /cluster/api/config_GET_429_application/json_
+Found object schema with prefix: /cluster/local/config_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/local/config_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/local/config_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/local/config_GET_405_application/json_
+Found object schema with prefix: /cluster/local/config_GET_429_application/json_
+Found object schema with prefix: /cluster/local/config_GET_400_application/json_
+Found object schema with prefix: /cluster/local/config_GET_401_application/json_
+Found object schema with prefix: /manager/info_GET_405_application/json_
+Found object schema with prefix: /manager/info_GET_429_application/json_
+Found object schema with prefix: /manager/info_GET_400_application/json_
+Found object schema with prefix: /manager/info_GET_401_application/json_
+Found object schema with prefix: /manager/info_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/info_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/info_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/node/{node_id}/restart_PUT_400_application/json_
+Found object schema with prefix: /agents/node/{node_id}/restart_PUT_401_application/json_
+Found object schema with prefix: /agents/node/{node_id}/restart_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/node/{node_id}/restart_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/node/{node_id}/restart_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/node/{node_id}/restart_PUT_405_application/json_
+Found object schema with prefix: /agents/node/{node_id}/restart_PUT_429_application/json_
+Found object schema with prefix: /security/users/{user_id}/run_as_PUT_400_application/json_
+Found object schema with prefix: /security/users/{user_id}/run_as_PUT_401_application/json_
+Found object schema with prefix: /security/users/{user_id}/run_as_PUT_405_application/json_
+Found object schema with prefix: /security/users/{user_id}/run_as_PUT_406_application/json_
+Found object schema with prefix: /security/users/{user_id}/run_as_PUT_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/daemons/stats_GET_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/daemons/stats_GET_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/daemons/stats_GET_401_application/json_
+Found object schema with prefix: /agents/{agent_id}/daemons/stats_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/daemons/stats_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/daemons/stats_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/daemons/stats_GET_405_application/json_
+Found object schema with prefix: /agents_POST_requestBody_application/json_
+Found object schema with prefix: /agents_POST_400_application/json_
+Found object schema with prefix: /agents_POST_401_application/json_
+Found object schema with prefix: /agents_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /agents_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /agents_POST_405_application/json_
+Found object schema with prefix: /agents_POST_406_application/json_
+Found object schema with prefix: /agents_POST_413_application/json_
+Found object schema with prefix: /agents_POST_429_application/json_
+Found object schema with prefix: /agents_DELETE_401_application/json_
+Found object schema with prefix: /agents_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /agents_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /agents_DELETE_405_application/json_
+Found object schema with prefix: /agents_DELETE_429_application/json_
+Found object schema with prefix: /agents_DELETE_400_application/json_
+Found object schema with prefix: /agents_GET_401_application/json_
+Found object schema with prefix: /agents_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents_GET_405_application/json_
+Found object schema with prefix: /agents_GET_429_application/json_
+Found object schema with prefix: /agents_GET_400_application/json_
+Found object schema with prefix: /security/rules_DELETE_400_application/json_
+Found object schema with prefix: /security/rules_DELETE_401_application/json_
+Found object schema with prefix: /security/rules_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /security/rules_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/rules_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /security/rules_DELETE_405_application/json_
+Found object schema with prefix: /security/rules_DELETE_429_application/json_
+Found object schema with prefix: /security/rules_GET_400_application/json_
+Found object schema with prefix: /security/rules_GET_401_application/json_
+Found object schema with prefix: /security/rules_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /security/rules_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/rules_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /security/rules_GET_405_application/json_
+Found object schema with prefix: /security/rules_GET_429_application/json_
+Found object schema with prefix: /security/rules_POST_requestBody_application/json_
+Patched property rule with x-go-name: /security/rules_POST_requestBody_application/json_RuleSchema
+Found object schema with prefix: /security/rules_POST_requestBody_application/json_rule_
+Found object schema with prefix: /security/rules_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /security/rules_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/rules_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /security/rules_POST_405_application/json_
+Found object schema with prefix: /security/rules_POST_406_application/json_
+Found object schema with prefix: /security/rules_POST_413_application/json_
+Found object schema with prefix: /security/rules_POST_429_application/json_
+Found object schema with prefix: /security/rules_POST_400_application/json_
+Found object schema with prefix: /security/rules_POST_401_application/json_
+Found object schema with prefix: /rules/requirement/{requirement}_GET_429_application/json_
+Found object schema with prefix: /rules/requirement/{requirement}_GET_400_application/json_
+Found object schema with prefix: /rules/requirement/{requirement}_GET_401_application/json_
+Found object schema with prefix: /rules/requirement/{requirement}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /rules/requirement/{requirement}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rules/requirement/{requirement}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /rules/requirement/{requirement}_GET_405_application/json_
+Found object schema with prefix: /experimental/ciscat/results_GET_400_application/json_
+Found object schema with prefix: /experimental/ciscat/results_GET_401_application/json_
+Found object schema with prefix: /experimental/ciscat/results_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/ciscat/results_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/ciscat/results_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/ciscat/results_GET_405_application/json_
+Found object schema with prefix: /experimental/ciscat/results_GET_429_application/json_
+Found object schema with prefix: /agents/uninstall_GET_429_application/json_
+Found object schema with prefix: /agents/uninstall_GET_400_application/json_
+Found object schema with prefix: /agents/uninstall_GET_401_application/json_
+Found object schema with prefix: /agents/uninstall_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/uninstall_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/uninstall_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/uninstall_GET_405_application/json_
+Found object schema with prefix: /experimental/syscheck_DELETE_400_application/json_
+Found object schema with prefix: /experimental/syscheck_DELETE_401_application/json_
+Found object schema with prefix: /experimental/syscheck_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscheck_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscheck_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscheck_DELETE_405_application/json_
+Found object schema with prefix: /experimental/syscheck_DELETE_429_application/json_
+Found object schema with prefix: /logtest_PUT_requestBody_application/json_
+Found object schema with prefix: /logtest_PUT_413_application/json_
+Found object schema with prefix: /logtest_PUT_429_application/json_
+Found object schema with prefix: /logtest_PUT_200_application/json_
+Found object schema with prefix: /logtest_PUT_400_application/json_
+Found object schema with prefix: /logtest_PUT_401_application/json_
+Found object schema with prefix: /logtest_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /logtest_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /logtest_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /logtest_PUT_405_application/json_
+Found object schema with prefix: /logtest_PUT_406_application/json_
+Found object schema with prefix: /rules_GET_429_application/json_
+Found object schema with prefix: /rules_GET_400_application/json_
+Found object schema with prefix: /rules_GET_401_application/json_
+Found object schema with prefix: /rules_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /rules_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /rules_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /rules_GET_405_application/json_
+Found object schema with prefix: /lists/files_GET_405_application/json_
+Found object schema with prefix: /lists/files_GET_429_application/json_
+Found object schema with prefix: /lists/files_GET_400_application/json_
+Found object schema with prefix: /lists/files_GET_401_application/json_
+Found object schema with prefix: /lists/files_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /lists/files_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /lists/files_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /mitre/references_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /mitre/references_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /mitre/references_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /mitre/references_GET_405_application/json_
+Found object schema with prefix: /mitre/references_GET_429_application/json_
+Found object schema with prefix: /mitre/references_GET_400_application/json_
+Found object schema with prefix: /mitre/references_GET_401_application/json_
+Found object schema with prefix: /agents/outdated_GET_429_application/json_
+Found object schema with prefix: /agents/outdated_GET_400_application/json_
+Found object schema with prefix: /agents/outdated_GET_401_application/json_
+Found object schema with prefix: /agents/outdated_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/outdated_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/outdated_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/outdated_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/stats_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/stats_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/daemons/stats_GET_405_application/json_
+Found object schema with prefix: /manager/daemons/stats_GET_429_application/json_
+Found object schema with prefix: /manager/daemons/stats_GET_400_application/json_
+Found object schema with prefix: /manager/daemons/stats_GET_401_application/json_
+Found object schema with prefix: /manager/daemons/stats_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/daemons/stats_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/daemons/stats_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/logs_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/logs_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/logs_GET_400_application/json_
+Found object schema with prefix: /cluster/{node_id}/logs_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/logs_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/logs_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/logs_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /security/user/authenticate_GET_405_application/json_
+Found object schema with prefix: /security/user/authenticate_GET_429_application/json_
+Found object schema with prefix: /security/user/authenticate_GET_400_application/json_
+Found object schema with prefix: /security/user/authenticate_GET_401_application/json_
+Found object schema with prefix: /security/user/authenticate_POST_405_application/json_
+Found object schema with prefix: /security/user/authenticate_POST_429_application/json_
+Found object schema with prefix: /security/user/authenticate_POST_400_application/json_
+Found object schema with prefix: /security/user/authenticate_POST_401_application/json_
+Found object schema with prefix: /security/user/authenticate_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /security/user/authenticate_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/user/authenticate_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /security/user/authenticate_DELETE_405_application/json_
+Found object schema with prefix: /security/user/authenticate_DELETE_429_application/json_
+Found object schema with prefix: /security/user/authenticate_DELETE_200_application/json_
+Found object schema with prefix: /security/user/authenticate_DELETE_400_application/json_
+Found object schema with prefix: /security/user/authenticate_DELETE_401_application/json_
+Found object schema with prefix: /security/users/me/policies_GET_200_application/json_
+Found object schema with prefix: /security/users/me/policies_GET_400_application/json_
+Found object schema with prefix: /security/users/me/policies_GET_401_application/json_
+Found object schema with prefix: /security/users/me/policies_GET_405_application/json_
+Found object schema with prefix: /security/users/me/policies_GET_429_application/json_
+Found object schema with prefix: /security/policies_POST_requestBody_application/json_
+Patched property policy with x-go-name: /security/policies_POST_requestBody_application/json_PolicySchema
+Found object schema with prefix: /security/policies_POST_requestBody_application/json_policy_
+Found object schema with prefix: /security/policies_POST_405_application/json_
+Found object schema with prefix: /security/policies_POST_406_application/json_
+Found object schema with prefix: /security/policies_POST_413_application/json_
+Found object schema with prefix: /security/policies_POST_429_application/json_
+Found object schema with prefix: /security/policies_POST_400_application/json_
+Found object schema with prefix: /security/policies_POST_401_application/json_
+Found object schema with prefix: /security/policies_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /security/policies_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/policies_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /security/policies_DELETE_400_application/json_
+Found object schema with prefix: /security/policies_DELETE_401_application/json_
+Found object schema with prefix: /security/policies_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /security/policies_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/policies_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /security/policies_DELETE_405_application/json_
+Found object schema with prefix: /security/policies_DELETE_429_application/json_
+Found object schema with prefix: /security/policies_GET_405_application/json_
+Found object schema with prefix: /security/policies_GET_429_application/json_
+Found object schema with prefix: /security/policies_GET_400_application/json_
+Found object schema with prefix: /security/policies_GET_401_application/json_
+Found object schema with prefix: /security/policies_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /security/policies_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/policies_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /groups/{group_id}/files_GET_405_application/json_
+Found object schema with prefix: /groups/{group_id}/files_GET_429_application/json_
+Found object schema with prefix: /groups/{group_id}/files_GET_400_application/json_
+Found object schema with prefix: /groups/{group_id}/files_GET_401_application/json_
+Found object schema with prefix: /groups/{group_id}/files_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/files_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/files_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /groups/{group_id}/files_GET_404_application/json_
+Patched property dapi_errors with x-go-name: /groups/{group_id}/files_GET_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /groups/{group_id}/files_GET_404_application/json_dapi_errors_
+Found object schema with prefix: /manager/version/check_GET_429_application/json_
+Found object schema with prefix: /manager/version/check_GET_400_application/json_
+Found object schema with prefix: /manager/version/check_GET_401_application/json_
+Found object schema with prefix: /manager/version/check_GET_404_application/json_
+Patched property dapi_errors with x-go-name: /manager/version/check_GET_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/version/check_GET_404_application/json_dapi_errors_
+Found object schema with prefix: /manager/version/check_GET_405_application/json_
+Found object schema with prefix: /syscheck_PUT_429_application/json_
+Found object schema with prefix: /syscheck_PUT_400_application/json_
+Found object schema with prefix: /syscheck_PUT_401_application/json_
+Found object schema with prefix: /syscheck_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /syscheck_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /syscheck_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /syscheck_PUT_405_application/json_
+Found object schema with prefix: /cluster/configuration/validation_GET_405_application/json_
+Found object schema with prefix: /cluster/configuration/validation_GET_429_application/json_
+Found object schema with prefix: /cluster/configuration/validation_GET_400_application/json_
+Found object schema with prefix: /cluster/configuration/validation_GET_401_application/json_
+Found object schema with prefix: /cluster/configuration/validation_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/configuration/validation_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/configuration/validation_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /decoders/files_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /decoders/files_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /decoders/files_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /decoders/files_GET_405_application/json_
+Found object schema with prefix: /decoders/files_GET_429_application/json_
+Found object schema with prefix: /decoders/files_GET_400_application/json_
+Found object schema with prefix: /decoders/files_GET_401_application/json_
+Found object schema with prefix: /agents/group/{group_id}/restart_PUT_400_application/json_
+Found object schema with prefix: /agents/group/{group_id}/restart_PUT_401_application/json_
+Found object schema with prefix: /agents/group/{group_id}/restart_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/group/{group_id}/restart_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/group/{group_id}/restart_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/group/{group_id}/restart_PUT_404_application/json_
+Patched property dapi_errors with x-go-name: /agents/group/{group_id}/restart_PUT_404_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/group/{group_id}/restart_PUT_404_application/json_dapi_errors_
+Found object schema with prefix: /agents/group/{group_id}/restart_PUT_405_application/json_
+Found object schema with prefix: /agents/group/{group_id}/restart_PUT_429_application/json_
+Found object schema with prefix: /experimental/syscollector/ports_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/ports_GET_401_application/json_
+Found object schema with prefix: /experimental/syscollector/ports_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscollector/ports_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscollector/ports_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/ports_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/ports_GET_429_application/json_
+Found object schema with prefix: /sca/{agent_id}/checks/{policy_id}_GET_429_application/json_
+Found object schema with prefix: /sca/{agent_id}/checks/{policy_id}_GET_400_application/json_
+Found object schema with prefix: /sca/{agent_id}/checks/{policy_id}_GET_401_application/json_
+Found object schema with prefix: /sca/{agent_id}/checks/{policy_id}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /sca/{agent_id}/checks/{policy_id}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /sca/{agent_id}/checks/{policy_id}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /sca/{agent_id}/checks/{policy_id}_GET_405_application/json_
+Found object schema with prefix: /sca/{agent_id}_GET_401_application/json_
+Found object schema with prefix: /sca/{agent_id}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /sca/{agent_id}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /sca/{agent_id}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /sca/{agent_id}_GET_405_application/json_
+Found object schema with prefix: /sca/{agent_id}_GET_429_application/json_
+Found object schema with prefix: /sca/{agent_id}_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/processes_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscollector/processes_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscollector/processes_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/processes_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/processes_GET_429_application/json_
+Found object schema with prefix: /experimental/syscollector/processes_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/processes_GET_401_application/json_
+Found object schema with prefix: /experimental/syscollector/packages_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/packages_GET_401_application/json_
+Found object schema with prefix: /experimental/syscollector/packages_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscollector/packages_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscollector/packages_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/packages_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/packages_GET_429_application/json_
+Found object schema with prefix: /ciscat/{agent_id}/results_GET_405_application/json_
+Found object schema with prefix: /ciscat/{agent_id}/results_GET_429_application/json_
+Found object schema with prefix: /ciscat/{agent_id}/results_GET_400_application/json_
+Found object schema with prefix: /ciscat/{agent_id}/results_GET_401_application/json_
+Found object schema with prefix: /ciscat/{agent_id}/results_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /ciscat/{agent_id}/results_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /ciscat/{agent_id}/results_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/stats/distinct_GET_400_application/json_
+Found object schema with prefix: /agents/stats/distinct_GET_401_application/json_
+Found object schema with prefix: /agents/stats/distinct_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/stats/distinct_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/stats/distinct_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/stats/distinct_GET_405_application/json_
+Found object schema with prefix: /agents/stats/distinct_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/analysisd_GET_401_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/analysisd_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/{node_id}/stats/analysisd_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/{node_id}/stats/analysisd_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/{node_id}/stats/analysisd_GET_405_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/analysisd_GET_429_application/json_
+Found object schema with prefix: /cluster/{node_id}/stats/analysisd_GET_400_application/json_
+Found object schema with prefix: /cluster/local/info_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /cluster/local/info_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /cluster/local/info_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /cluster/local/info_GET_405_application/json_
+Found object schema with prefix: /cluster/local/info_GET_429_application/json_
+Found object schema with prefix: /cluster/local/info_GET_400_application/json_
+Found object schema with prefix: /cluster/local/info_GET_401_application/json_
+Found object schema with prefix: /security/users/{user_id}/roles_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /security/users/{user_id}/roles_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/users/{user_id}/roles_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /security/users/{user_id}/roles_DELETE_405_application/json_
+Found object schema with prefix: /security/users/{user_id}/roles_DELETE_429_application/json_
+Found object schema with prefix: /security/users/{user_id}/roles_DELETE_400_application/json_
+Found object schema with prefix: /security/users/{user_id}/roles_DELETE_401_application/json_
+Found object schema with prefix: /security/users/{user_id}/roles_POST_429_application/json_
+Found object schema with prefix: /security/users/{user_id}/roles_POST_400_application/json_
+Found object schema with prefix: /security/users/{user_id}/roles_POST_401_application/json_
+Found object schema with prefix: /security/users/{user_id}/roles_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /security/users/{user_id}/roles_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/users/{user_id}/roles_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /security/users/{user_id}/roles_POST_405_application/json_
+Found object schema with prefix: /logtest/sessions/{token}_DELETE_400_application/json_
+Found object schema with prefix: /logtest/sessions/{token}_DELETE_401_application/json_
+Found object schema with prefix: /logtest/sessions/{token}_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /logtest/sessions/{token}_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /logtest/sessions/{token}_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /logtest/sessions/{token}_DELETE_405_application/json_
+Found object schema with prefix: /logtest/sessions/{token}_DELETE_406_application/json_
+Found object schema with prefix: /logtest/sessions/{token}_DELETE_413_application/json_
+Found object schema with prefix: /logtest/sessions/{token}_DELETE_429_application/json_
+Found object schema with prefix: /logtest/sessions/{token}_DELETE_200_application/json_
+Found object schema with prefix: /manager/api/config_GET_405_application/json_
+Found object schema with prefix: /manager/api/config_GET_429_application/json_
+Found object schema with prefix: /manager/api/config_GET_200_application/json_
+Found object schema with prefix: /manager/api/config_GET_400_application/json_
+Found object schema with prefix: /manager/api/config_GET_401_application/json_
+Found object schema with prefix: /manager/api/config_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/api/config_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/api/config_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/stats/analysisd_GET_400_application/json_
+Found object schema with prefix: /manager/stats/analysisd_GET_401_application/json_
+Found object schema with prefix: /manager/stats/analysisd_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/stats/analysisd_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/stats/analysisd_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /manager/stats/analysisd_GET_405_application/json_
+Found object schema with prefix: /manager/stats/analysisd_GET_429_application/json_
+Found object schema with prefix: /agents/insert_POST_requestBody_application/json_
+Patched property force with x-go-name: /agents/insert_POST_requestBody_application/json_ForceSchema
+Found object schema with prefix: /agents/insert_POST_requestBody_application/json_force_
+Patched property disconnected_time with x-go-name: /agents/insert_POST_requestBody_application/json_force_DisconnectedTimeSchema
+Found object schema with prefix: /agents/insert_POST_requestBody_application/json_force_disconnected_time_
+Found object schema with prefix: /agents/insert_POST_400_application/json_
+Found object schema with prefix: /agents/insert_POST_401_application/json_
+Found object schema with prefix: /agents/insert_POST_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/insert_POST_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/insert_POST_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/insert_POST_405_application/json_
+Found object schema with prefix: /agents/insert_POST_406_application/json_
+Found object schema with prefix: /agents/insert_POST_413_application/json_
+Found object schema with prefix: /agents/insert_POST_429_application/json_
+Found object schema with prefix: /experimental/rootcheck_DELETE_405_application/json_
+Found object schema with prefix: /experimental/rootcheck_DELETE_429_application/json_
+Found object schema with prefix: /experimental/rootcheck_DELETE_400_application/json_
+Found object schema with prefix: /experimental/rootcheck_DELETE_401_application/json_
+Found object schema with prefix: /experimental/rootcheck_DELETE_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/rootcheck_DELETE_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/rootcheck_DELETE_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/reconnect_PUT_400_application/json_
+Found object schema with prefix: /agents/reconnect_PUT_401_application/json_
+Found object schema with prefix: /agents/reconnect_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/reconnect_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/reconnect_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/reconnect_PUT_405_application/json_
+Found object schema with prefix: /agents/reconnect_PUT_429_application/json_
+Found object schema with prefix: /overview/agents_GET_400_application/json_
+Found object schema with prefix: /overview/agents_GET_401_application/json_
+Found object schema with prefix: /overview/agents_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /overview/agents_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /overview/agents_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /overview/agents_GET_405_application/json_
+Found object schema with prefix: /overview/agents_GET_429_application/json_
+Found object schema with prefix: /security/users/me_GET_405_application/json_
+Found object schema with prefix: /security/users/me_GET_429_application/json_
+Found object schema with prefix: /security/users/me_GET_400_application/json_
+Found object schema with prefix: /security/users/me_GET_401_application/json_
+Found object schema with prefix: /security/users/me_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /security/users/me_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /security/users/me_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/netaddr_GET_400_application/json_
+Found object schema with prefix: /experimental/syscollector/netaddr_GET_401_application/json_
+Found object schema with prefix: /experimental/syscollector/netaddr_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /experimental/syscollector/netaddr_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /experimental/syscollector/netaddr_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /experimental/syscollector/netaddr_GET_405_application/json_
+Found object schema with prefix: /experimental/syscollector/netaddr_GET_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/is_sync_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /agents/{agent_id}/group/is_sync_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /agents/{agent_id}/group/is_sync_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /agents/{agent_id}/group/is_sync_GET_405_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/is_sync_GET_429_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/is_sync_GET_400_application/json_
+Found object schema with prefix: /agents/{agent_id}/group/is_sync_GET_401_application/json_
+Found object schema with prefix: /active-response_PUT_requestBody_application/json_
+Patched property alert with x-go-name: /active-response_PUT_requestBody_application/json_AlertSchema
+Found object schema with prefix: /active-response_PUT_requestBody_application/json_alert_
+Patched property data with x-go-name: /active-response_PUT_requestBody_application/json_alert_DataSchema
+Found object schema with prefix: /active-response_PUT_requestBody_application/json_alert_data_
+Found object schema with prefix: /active-response_PUT_429_application/json_
+Found object schema with prefix: /active-response_PUT_200_application/json_
+Found object schema with prefix: /active-response_PUT_400_application/json_
+Found object schema with prefix: /active-response_PUT_401_application/json_
+Found object schema with prefix: /active-response_PUT_403_application/json_
+Patched property dapi_errors with x-go-name: /active-response_PUT_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /active-response_PUT_403_application/json_dapi_errors_
+Found object schema with prefix: /active-response_PUT_405_application/json_
+Found object schema with prefix: /active-response_PUT_406_application/json_
+Found object schema with prefix: /active-response_PUT_413_application/json_
+Found object schema with prefix: /manager/configuration/{component}/{configuration}_GET_405_application/json_
+Found object schema with prefix: /manager/configuration/{component}/{configuration}_GET_429_application/json_
+Found object schema with prefix: /manager/configuration/{component}/{configuration}_GET_400_application/json_
+Found object schema with prefix: /manager/configuration/{component}/{configuration}_GET_401_application/json_
+Found object schema with prefix: /manager/configuration/{component}/{configuration}_GET_403_application/json_
+Patched property dapi_errors with x-go-name: /manager/configuration/{component}/{configuration}_GET_403_application/json_DapiErrorsSchema
+Found object schema with prefix: /manager/configuration/{component}/{configuration}_GET_403_application/json_dapi_errors_
+Found object schema with prefix: /tasks/status_GET_200_application/json_
