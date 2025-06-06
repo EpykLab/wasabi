@@ -1,0 +1,52 @@
+name: Create GitHub Release
+
+# This workflow runs when a new Git tag is pushed to the repository.
+# It means that every time you run your semver_increment.sh script and then
+# push the new tag (e.g., `git push --tags`), this workflow will activate.
+on:
+  push:
+    tags:
+      - 'v*.*.*' # Matches tags like v1.0.0, v1.2.3, etc.
+
+jobs:
+  release:
+    runs-on: ubuntu-latest # The type of runner that the job will execute on
+
+    steps:
+      - name: Checkout code
+        # Checks out your repository code so the workflow can access it.
+        uses: actions/checkout@v4
+
+      - name: Get tag name
+        # Extracts the tag name from the ref (e.g., 'v1.0.0' from 'refs/tags/v1.0.0').
+        id: get_tag
+        run: echo "TAG=${GITHUB_REF#refs/tags/}" >> "$GITHUB_OUTPUT"
+
+      - name: Create GitHub Release
+        # This action creates a new release on GitHub.
+        # It requires the 'GITHUB_TOKEN' for authentication.
+        uses: softprops/action-gh-release@v1
+        with:
+          # The name of the tag used to create the release.
+          # This is automatically picked up from GITHUB_REF, or you can specify it.
+          tag_name: ${{ steps.get_tag.outputs.TAG }}
+          # The title of the release.
+          name: Release ${{ steps.get_tag.outputs.TAG }}
+          # The description of the release. You can customize this
+          # to pull from a changelog file, or use a default message.
+          body: |
+            ## Release Notes for ${{ steps.get_tag.outputs.TAG }}
+
+            This release includes:
+            * Automated version bump.
+            * (Add more details here, e.g., features, bug fixes)
+
+            See the [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/${{ steps.get_tag.outputs.TAG }}/CHANGELOG.md) for more details.
+          # Set to true to create a draft release. Set to false for a published release.
+          draft: false
+          # Set to true to mark the release as a pre-release.
+          prerelease: false
+        env:
+          # GITHUB_TOKEN is a special token provided by GitHub Actions
+          # that grants permissions to interact with the GitHub API.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
