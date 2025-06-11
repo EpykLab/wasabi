@@ -1,9 +1,0 @@
-extends:
-  - recommended
-rules:
-  # Disable all warnings by setting specific rules to 'off' or adjusting severity
-  operation-operationId: off
-  no-server-trailing-slash: off
-  # Add other rules you want to suppress warnings for
-lint:
-  severity: error
